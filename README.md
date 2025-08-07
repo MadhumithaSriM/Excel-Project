@@ -35,9 +35,22 @@ It visualizes key sales metrics using Pivot Tables, Pivot Charts, and Slicers to
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 🛠 Built by
 
 **Madhumitha Sri Murali**
+
+---
+
+## Feedback
+
+If you have any feedback or suggestions, feel free to reach out:**madhumithasri333@gmail.com**
+
+---
+
+## 🔗 Connect with me
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhumitha-sri-m-9b0111210/)
+
 
 ---
 
