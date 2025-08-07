@@ -5,7 +5,7 @@ It visualizes key sales metrics using Pivot Tables, Pivot Charts, and Slicers to
 
 ---
 
-![Dashboard Preview](bike sales dashboard.png)
+![Dashboard Preview](bikesalesdashboard.png)
 
 ---
 
