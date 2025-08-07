@@ -30,17 +30,14 @@ It visualizes key sales metrics using Pivot Tables, Pivot Charts, and Slicers to
 
 ## 📂 Project Files
 
-- `SalesDashboard.xlsx` → The main Excel dashboard file  
-- `dashboard.png` → Screenshot of the dashboard
+- `Excelproject.xlsx` → The main Excel dashboard file  
+- `bikesalesdashboard.png` → Screenshot of the dashboard
 
 ---
 
 ## 👩‍💻 Author
 
 **Madhumitha Sri Murali**
-
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) *(replace this with your actual LinkedIn profile)*  
-📧 Reach me at: your.email@example.com *(optional)*
 
 ---
 
