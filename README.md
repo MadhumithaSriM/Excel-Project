@@ -12,7 +12,7 @@ This is a dynamic sales dashboard project built in Excel using:
 - Clear data visualization using charts
 
 ## 📁 Files Included
-- `SalesDashboard.xlsx`: Main dashboard file
+- `Excel Project.xlsx`: Main dashboard file
 - `README.md`: Project overview
 
 ## 🛠️ Tools Used
