@@ -1,2 +1,19 @@
-# Excel-Project
-An interactive sales dashboard built in Excel using pivot tables, slicers, and pivot charts.
+# Excel Sales Dashboard 📊
+
+This is a dynamic sales dashboard project built in Excel using:
+- Pivot Tables
+- Pivot Charts
+- Slicers
+
+
+## 💡 Features
+- Region-wise sales breakdown
+- Interactive slicers for filtering
+- Clear data visualization using charts
+
+## 📁 Files Included
+- `SalesDashboard.xlsx`: Main dashboard file
+- `README.md`: Project overview
+
+## 🛠️ Tools Used
+- Microsoft Excel
